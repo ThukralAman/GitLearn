@@ -56,3 +56,7 @@ NOTE 2: If there is any staged content in master branch then you cannot create o
 - So take care that you stash all unstaged content of master before creating a new branch FC1
 - But stashing is not a good solution. Because if you go to FC1 branch and have some unstaged work there, then while moving to master branch you will be stashing again to not bring that unstaged work(of FC1 branch) to master. in this process stash stack will have two elements and it gets difficult to track stashed items
 - Better solution is to commit the unstaged work as a temp commit in master branch and move to FC1 branch.     
+
+
+
+HOTFIXFC branch change
