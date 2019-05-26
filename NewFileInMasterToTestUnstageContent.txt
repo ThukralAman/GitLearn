@@ -1,0 +1,10 @@
+Adding content in master branch
+Adding content from FC2
+Again Adding fro master
+Staged this file in master and switched to FC2 with no errors
+Made changes in FC2 and switch to master
+
+Counter check.. missed to save file in master.. again adding content in master
+Staged in master and switch to FC2 again
+No problem when file is in staging area.. succesully switched to FC2
+Add some changes in FC2 and stage in FC2
