@@ -8,3 +8,5 @@ Counter check.. missed to save file in master.. again adding content in master
 Staged in master and switch to FC2 again
 No problem when file is in staging area.. succesully switched to FC2
 Add some changes in FC2 and stage in FC2
+
+Commit the state of this file in master branch. now making some changes and try to switch to FC2
