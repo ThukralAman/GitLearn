@@ -1,0 +1,5 @@
+Test1.... content while in master
+Test1.. Content while in New vali branch
+
+Result Confirmed : No problem in switching brnach with content that is not staged.   
+Change made in master branch and is going to be commited
